@@ -119,6 +119,13 @@ This plugin is licensed under the [MIT License](LICENSE).
 
 *   Inspired by Vimium and other similar browser extensions for keyboard-based navigation.
 
----
+---------------------------
+
+If you find this plugin helpful, consider buying me a coffee!
+[PayPal](https://paypal.me/KurtWhittemore/3)
+
+
+
+---------------------------
 
 Happy Hinting!
