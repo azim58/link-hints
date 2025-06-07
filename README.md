@@ -4,6 +4,7 @@
 
 Navigate much of Obsidian with only your keyboard!  Explore your Obsidian vault with unparalleled speed and precision using keyboard-based hints for all clickable elements! Inspired by browser extensions like Vimium, this plugin allows you to quickly jump to links, buttons, tabs, and other UI elements without touching your mouse.
 
+This plugin was created by Kurt Whittemore.  The code for this plugin was written by Claude Opus 4 and Gemini 2.5-Pro Preview.
 
 
 ## Features
